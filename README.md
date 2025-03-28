@@ -42,3 +42,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any inquiries or feedback, please reach out to [VoMinhTrung103](https://github.com/VoMinhTrung103).
+
+## Video Demo
+[![Watch the video](https://img.youtube.com/vi/kE2byIO6Trw/0.jpg)](https://www.youtube.com/watch?v=kE2byIO6Trw)
+
